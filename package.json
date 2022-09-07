@@ -1,0 +1,12 @@
+{
+  "name": "evangelion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "init-evangelion": "init.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
